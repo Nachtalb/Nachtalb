@@ -1,53 +1,27 @@
-### Hi there 👋
+### Hi there 👋 [<img align="right" src="https://img.shields.io/badge/-website-D9BB62">](https://nachtalb.io)
+<img align="right" src="https://i.pinimg.com/originals/6c/8d/4b/6c8d4bb29e34442d4b9462a060d76586.jpg" width=310>
 
-- ⚙️ Dotfiles:
-  - ![fish](https://github.com/Nachtalb/Nachtalb/blob/13716d86bce20ff0ad53cf22e312242b05201cdc/fish.png) [Fish](https://github.com/Nachtalb/dotfiles) with [fischer](https://github.com/jorgebucaran/fisher)
-  - ![vim](https://github.com/Nachtalb/Nachtalb/blob/8a576a4d70f1f180cbe8c1b253bd7bdc32b2187a/vim_on_fire.gif) [NeoVIM](https://github.com/Nachtalb/vimconfig)
-- 🔭 I’m currently working on stuff I feel motivated to work on
-- 🌱 I’m currently learning
-  - rust
-  - go 
-- 👯 I’m collaborating on
-  - [Nicotine Plus](https://github.com/nicotine-plus/nicotine-plus)
-  - [TheLounge IRC](https://github.com/thelounge/thelounge)
-- 📫 How to reach me: 
-  - via my socials linked on [website][website]
-  
-### Public Services 
+Pleased to meetcha
 
-I host a few privacy oriented services. 
+[![Anamnesis](https://github-readme-stats.vercel.app/api?username=Nachtalb&show_icons=true&theme=dracula&bg_color=0d1117&title_color=D9BB62&icon_color=D9BB62&border_color=444c56&text_color=D9BB62)](https://github.com/Nachtalb)
 
-ℹ **[Service Overview][services]** |
-**[Status Page][services_status]** | 
-**[Source Code][services_repo]** ℹ
 
-<!-- markdownlint-disable MD033-->
-<!-- markdownlint-disable MD013-->
+#### What am I doing right now
 
-| Name            | Instance                                                                                                                                                                               | Description                                               | SourceCode                                                                         |
-|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Hastebin        | [https://hastebin.nachtalb.io](https://hastebin.nachtalb.io) <br> [https://pastebin.nachtalb.io](https://pastebin.nachtalb.io) <br> [https://bin.nachtalb.io](https://bin.nachtalb.io) | Pastebin alternative                                      | [toptal/haste-server](https://github.com/toptal/haste-server)                       |
-| LibReddit       | [https://libreddit.nachtalb.io](https://libreddit.nachtalb.io) <br> [https://reddit.nachtalb.io](https://reddit.nachtalb.io)                                                           | Privacy focused [Reddit][reddit] frontend                 | [spikecodes/libreddit](https://github.com/spikecodes/libreddit)                     |
-| Libremdb        | [https://libremdb.nachtalb.io](https://libremdb.nachtalb.io) <br> [https://imdb.nachtalb.io](https://imdb.nachtalb.io)                                                                 | Privacy focused [Imdb][imdb] frontend                     | [zyachel/libremdb](https://github.com/zyachel/libremdb)                             |
-| Nitter          | [https://nitter.nachtalb.io](https://nitter.nachtalb.io) <br> [https://twitter.nachtalb.io](https://twitter.nachtalb.io)                                                               | Privacy focused [Twitter][twitter] frontend               | [zedeus/nitter](https://github.com/zedeus/nitter)                                   |
-| ProxiTok        | [https://proxitok.nachtalb.io](https://proxitok.nachtalb.io) <br> [https://tiktok.nachtalb.io](https://tiktok.nachtalb.io)                                                             | Privacy focused [TikTok][tiktok] frontend                 | [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok)                       |
-| Quetre          | [https://quetre.nachtalb.io](https://quetre.nachtalb.io) <br> [https://quora.nachtalb.io](https://quora.nachtalb.io)                                                                   | Privacy focused [Quora][quora] frontend                   | [zyachel/quetre](https://github.com/zyachel/quetre)                                 |
-| Rimgo           | [https://rimgo.nachtalb.io](https://rimgo.nachtalb.io) <br> [https://rim.nachtalb.io](https://rim.nachtalb.io) <br> [https://imgur.nachtalb.io](https://imgur.nachtalb.io)             | Privacy focused [Imgur][imgur] frontend                   | [video-prize-ranch/rimgo](https://codeberg.org/video-prize-ranch/rimgo)             |
-| SearXNG         | [https://searxng.nachtalb.io](https://searxng.nachtalb.io) <br> [https://searx.nachtalb.io](https://searx.nachtalb.io) <br> [https://search.nachtalb.io](https://search.nachtalb.io)   | Privacy meta search engine                                | [searxng/searxng](https://github.com/searxng/searxng)                               |
-| SimplyTranslate | [https://simplytranslate.nachtalb.io](https://simplytranslate.nachtalb.io) <br> [https://translate.nachtalb.io](https://translate.nachtalb.io)                                         | Privacy focused (google, deepl etc.) translation frontend | [SimpleWeb/SimplyTranslate-Web](https://codeberg.org/SimpleWeb/SimplyTranslate-Web) |
-| WikiLess        | [https://wikiless.nachtalb.io](https://wikiless.nachtalb.io) <br> [https://wiki.nachtalb.io](https://wiki.nachtalb.io)                                                                 | Privacy focused [Wikipedia][wikipedia] frontend           | [orenom/wikiless](https://codeberg.org/orenom/wikiless)                             |
+![Rust](https://img.shields.io/badge/-Rust-a72145?logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 
-<!-- markdownlint-enable MD033-->
-<!-- markdownlint-enable MD013-->
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachtalb&layout=compact&bg_color=0d1117&title_color=D9BB62&icon_color=D9BB62&border_color=444c56&text_color=D9BB62)](https://github.com/Nachtalb?tab=repositories)
 
-[reddit]: https://www.reddit.com/
-[imdb]: https://www.imdb.com/
-[twitter]: https://twitter.com/
-[tiktok]: https://www.tiktok.com/
-[quora]: https://www.quora.com/
-[imgur]: https://imgur.com/
-[wikipedia]: https://www.wikipedia.org/
-[website]: https://nachtalb.io
-[services]: https://s.nachtalb.io
-[services_status]: https://status.nachtalb.io/status/services
-[services_repo]: https://github.com/Nachtalb/public-services
+#### Public Services 
+
+[![Twitter => Nitter](https://img.shields.io/badge/-Nitter-1DA1F2?logo=twitter&logoColor=white)](https://nitter.nachtalb.io)
+[![Reddit => Libreddit](https://img.shields.io/badge/-Libreddit-FF4500?logo=reddit&logoColor=white)](https://libreddit.nachtalb.io)
+[![Pastebin-like => Hastebin](https://img.shields.io/badge/-Hastebin-02456C?logo=pastebin&logoColor=white)](https://bin.nachtalb.io)
+[![Imgur => Rimgo](https://img.shields.io/badge/-Rimgo-1BB76E?logo=imgur&logoColor=white)](https://rimgo.nachtalb.io)
+[![Google/Bing/DDG => Searx](https://img.shields.io/badge/-Searx-4285F4?logo=google&logoColor=white)](https://searx.nachtalb.io)
+[![Google Translate => SimplyTranslate](https://img.shields.io/badge/-SimplyTranslate-4285F4?logo=google-translate&logoColor=white)](https://translate.nachtalb.io)
+[![Wikipedia => Wikiless](https://img.shields.io/badge/-Wikiless-000000?logo=wikipedia&logoColor=white)](https://wikiless.nachtalb.io)
+[![Quora => Quetre](https://img.shields.io/badge/-Quetre-B92B27?logo=quora&logoColor=white)](https://quetre.nachtalb.io)
+[![TikTok => Proxitok](https://img.shields.io/badge/-Proxitok-000000?logo=tiktok&logoColor=white)](https://proxitok.nachtalb.io)
+[![IMDB => Libremdb](https://img.shields.io/badge/-Libremdb-F5C518?logo=imdb&logoColor=black)](https://libremdb.nachtalb.io)
+[![Matrix](https://img.shields.io/badge/-Matrix-000000?logo=matrix&logoColor=white)](https://matrix.nachtalb.io)
