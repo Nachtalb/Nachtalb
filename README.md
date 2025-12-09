@@ -3,14 +3,14 @@
 
 Pleased to meetcha
 
-[![Anamnesis](https://github-readme-stats.vercel.app/api?username=Nachtalb&show_icons=true&theme=dracula&bg_color=0d1117&title_color=D9BB62&icon_color=D9BB62&border_color=444c56&text_color=D9BB62)](https://github.com/Nachtalb)
+[![Anamnesis](https://github-readme-stats-eight-theta.vercel.app/api?username=Nachtalb&show_icons=true&theme=dracula&bg_color=0d1117&title_color=D9BB62&icon_color=D9BB62&border_color=444c56&text_color=D9BB62)](https://github.com/Nachtalb)
 
 
 #### What am I doing right now
 
 ![C/C++](https://img.shields.io/badge/-*.c-004482?logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-a72145?logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachtalb&layout=compact&bg_color=0d1117&title_color=D9BB62&icon_color=D9BB62&border_color=444c56&text_color=D9BB62)](https://github.com/Nachtalb?tab=repositories)
+[![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nachtalb&layout=compact&bg_color=0d1117&title_color=D9BB62&icon_color=D9BB62&border_color=444c56&text_color=D9BB62)](https://github.com/Nachtalb?tab=repositories)
 <!--
 #### Public Services 
 
